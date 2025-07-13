@@ -8,7 +8,8 @@ export function EnvEncrypt() {
       <div className="flex justify-between gap-x-4 text-gray-500">
         <div className="w-1/2 bg-gray-100 p-4 rounded-md text-sm w-full overflow-x-auto">
           <pre>
-            <i>// .env.development</i>
+            <i>#.env.development</i>
+            <br />
             <br />
             #/-------------------[DOTENV_PUBLIC_KEY]--------------------/
             <br />
@@ -18,7 +19,7 @@ export function EnvEncrypt() {
             <br />
             #/----------------------------------------------------------/
             <br />
-            DOTENV_PUBLIC_KEY_DEVELOPMENT="03d1c02842ba159b8d7f2194e31b193091ff31231c7a3f14948a0aaba9d952cee2"
+            DOTENV_PUBLIC_KEY_DEVELOPMENT=&quot;03d1c02842ba159b8d7f2194e31b193091ff31231c7a3f14948a0aaba9d952cee2&quot;
             <br />
             <br />
             USER_NAME=encrypted:BOLPVy1BSV3x7ynG5TJB6Lt2JEUEN9K3buc0uL7eg2N7B2Rsf4JTthAifDKYU0oUpVj7+yQMdzbgszAUOztPL/21LqBAz41tcFiz9knmx2vZy1funrIAJByQK8wv9m+zxpB5PsH5Ag==
@@ -28,7 +29,8 @@ export function EnvEncrypt() {
         </div>
         <div className="w-1/2 bg-gray-100 p-4 rounded-md text-sm w-full overflow-x-auto">
           <pre>
-            <i>// .env.production</i>
+            <i>#.env.production</i>
+            <br />
             <br />
             #/-------------------[DOTENV_PUBLIC_KEY]--------------------/
             <br />
@@ -38,7 +40,7 @@ export function EnvEncrypt() {
             <br />
             #/----------------------------------------------------------/
             <br />
-            DOTENV_PUBLIC_KEY_PRODUCTION="02ec7e5af845b33dd3f72fd880afcb167bceafe6a3da6a4ca47079f2a80f94a90d"
+            DOTENV_PUBLIC_KEY_PRODUCTION=&quot;02ec7e5af845b33dd3f72fd880afcb167bceafe6a3da6a4ca47079f2a80f94a90d&quot;
             <br />
             <br />
             USER_NAME=encrypted:BKC9+20g32z2YNt7cyYD1pxQH8roay2BBAthYtSootlHZF4EqGdDXq12Pk+Arf67BNNJg5WWUiWMxMGdI289z5F43URtPmTR6zV5FLlACPmjAwC1LHUof/w1JhdfKRWrMNii1n/ICA==
