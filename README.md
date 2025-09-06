@@ -1,6 +1,6 @@
 # How to use dotenvx
 
-このリポジトリは Zenn の記事 **[「dotenvx の使い方」](https://zenn.dev/cocomina/)**
+このリポジトリは Zenn の記事 **[「dotenvxを使って環境変数を暗号化して管理する」]([https://zenn.dev/cocomina/](https://zenn.dev/cocomina/articles/how-to-use-dotenvx))**
 と連動したリポジトリです。
 
 ## 🛠️ 開発環境
